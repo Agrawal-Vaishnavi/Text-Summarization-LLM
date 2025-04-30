@@ -32,7 +32,7 @@ Unlike extractive summarization (which just pulls out existing sentences), BART 
 
 -> facebook/bart-large-cnn model is loaded
 
--> Adjusted the model [arameters based on the summary style required
+-> Adjusted the model parameters based on the summary style required
 
 -> Set the parameters for pipeline for mpre control - temperature, number of beams
 
